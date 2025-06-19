@@ -22,7 +22,6 @@ Este projeto demonstra o uso das **classes wrapper** em Java por meio de exemplo
 - Demonstração do uso de métodos das classes wrapper.
 - Conversão entre tipos primitivos e wrappers.
 - Comparações entre objetos wrapper.
-- Entrada de dados com tratamento de exceções.
 - Menu principal com navegação via `switch/case`.
 
 ## 📌 Requisitos
